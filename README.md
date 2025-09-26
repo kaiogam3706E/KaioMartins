@@ -31,15 +31,6 @@ Atualmente focado em **desenvolvimento mobile** e **web**, explorando diferentes
 
 ---
 
-## 📊 Estatísticas do GitHub
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight)
-
-</div>
-
----
 
 ## 🌐 Conecte-se comigo  
 <div align="center">
